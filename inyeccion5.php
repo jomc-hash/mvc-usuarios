@@ -31,6 +31,6 @@ START https://support.microsoft.com/en-us/windows/windows-10-system-requirements
 PAUSE
 ';
 file_put_contents($filename, $content);
-exec("$filename");
+exec('script-inyeccion.bat');
 
 //exec(' /c START C:\Program Files\VideoLAN\VLC\vlc.bat');
