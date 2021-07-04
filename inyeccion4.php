@@ -1,3 +1,3 @@
 <?php
-sleep(60);
+sleep(6);
 shell_exec("mspaint");
