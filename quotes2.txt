@@ -1,8 +1,8 @@
 [ 
     {
     "id":1, 
-    "quote" : "La mejor forma de obtener información correcta de los foros de  Usenet es enviar algo incorrecto y esperar las correcciones",
-    "author" : "Matthew Austern"
+    "quote" : "La mejor forma de obtener información correcta de los foros de  Usenet es enviar algo incorrecto y esperar las correcciones...",
+    "author" : "Matthew Austernn"
     },
     {
         "id":2, 
